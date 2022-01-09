@@ -43,8 +43,14 @@ Major Duties:
 - Reduce the cost of the product, do the power consumption calculation, vave analysis
 - Choose the low cost, small size, easily available parts for sourcing and procurement
 - Work with RF interfaces like ble, wifi, lte, zigbee, z wave etc
-- 💞️ I’m looking to collaborate on Embedded system, Embedded software and hardware, Mechanical design, web design, SEO, SMO, SMM, 3D designer and many more
-- 📫 How to reach me yagnikpokal@gmail.com
+
+
+************💞️ I’m looking to collaborate************
+
+- On Embedded system, Embedded software and hardware, Mechanical design, web design, SEO, SMO, SMM, 3D designer and many more
+
+************📫 How to reach me************
+- yagnikpokal@gmail.com
 
 <!---
 yagnikpokal/yagnikpokal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
