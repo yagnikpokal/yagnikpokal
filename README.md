@@ -4,6 +4,7 @@
 
 
 ************LINUX DEVELOPEMENT************
+
 - Device driver
 - uBooot and rootfs
 - C programming for linux
@@ -15,7 +16,9 @@
 - Speaker and audio preocessing noise removal
 - LTE and GPS board bring up
 - Ethernet and wif driver for linux
+
 ************HARDWARE DEVELOPEMENT************
+
 As embedded design  engineer my responsibility Includes complete product development life cycle. I design a product from prototype to production. 
 hobbytually work on the embedded c programming, video editing, web designing, seo, smm, content creation, Documents designing, graphics designing etc.
 - i like to creating the wordpress content, adding plugins, creating woocommerce stores, google analytics, my business pages on the google and bing and related things.
