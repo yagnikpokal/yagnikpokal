@@ -1,6 +1,14 @@
 - 👋 Hi, I’m @yagnikpokal
-- 👀 I’m a Specialist Hardware Developer | Embedded Software | Web design | IoT | Product Architecture | SEO | 3D | Content creator
-- 🌱 Embedded engineer interested in open source hardware and was born in the 2 year after linux. 
+- 👀 I’m a Specialist in webapp developement | Embedded Software | Web design | IoT | Product Architecture | SEO | 3D | Content creator
+- 🌱 Software engineer interested in open source software, cloud, backend developer and was born in the 2 year after linux. 
+
+************WEB DEVELOPEMENT************
+
+- Goland and python
+- Wordpress and hrms systems
+- Payment gateway and logistics integration with wordpress
+- Webapp developement
+- AWS cloud and server configuration
 
 
 ************LINUX DEVELOPEMENT************
