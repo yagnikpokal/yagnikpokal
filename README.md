@@ -1,61 +1,29 @@
 - 👋 Hi, I’m @yagnikpokal
-- 👀 I’m a Specialist in webapp developement | Embedded Software | Web design | IoT | Product Architecture | SEO | 3D | Content creator
-- 🌱 Software engineer interested in open source software, cloud, backend developer and was born in the 2 year after linux. 
+- 👀 I’m a Specialist in Golang | Web developer | AWS | Software | IoT | SEO | 3D | Embedded System | Linux | Yocto | Python
+- 🌱 Software engineer interested in open-source software, golang, cloud, embedded systems, and backend web development was born 1 year before java. 7+ year experience, 3+ with Go programming and 3+ years of experience with WordPress.
 
 ************WEB DEVELOPEMENT************
 
-- Goland and python
-- Wordpress and hrms systems
-- Payment gateway and logistics integration with wordpress
-- Webapp developement
-- AWS cloud and server configuration
-
-
-************LINUX DEVELOPEMENT************
-
-- Device driver
-- uBooot and rootfs
-- C programming for linux
-- Bare metal code for embedded device
-- Embedded C programming
-- IoT, IIoT, Smart home, AI, ML, RF design.
-- Up the microphone, audio video applications, LCD, LED, AMO LED operation with SPI, MIPI etc
-- Camera up with CSI interface
-- Speaker and audio preocessing noise removal
-- LTE and GPS board bring up
-- Ethernet and wif driver for linux
-
-************HARDWARE DEVELOPEMENT************
-
-As embedded design  engineer my responsibility Includes complete product development life cycle. I design a product from prototype to production. 
-hobbytually work on the embedded c programming, video editing, web designing, seo, smm, content creation, Documents designing, graphics designing etc.
-- i like to creating the wordpress content, adding plugins, creating woocommerce stores, google analytics, my business pages on the google and bing and related things.
-SUMMARY:
-- Oriented as an Embedded Engineering professional with over 8+ years experience. Expertise in hardware design and project management. Exceptional technical and leadership skills.
-- Defines architectures, establishes vendor relationships, designs boards and takes products through regulatory compliance into volume production.
-- Leads aggressive cost reduction initiatives striking optimum balance between Cost reduction, Production risks and Time-To-Market needs.
-- Significantly raised productivity levels by establishing procedures and design methodologies.
-- Proven ability to build strong relationships with staff and supporting departments.
-- Strong leader with motivational skills creating team cohesiveness and driving team.
-- Self-motivated and an innovative thinker, consistently pursuing new challenges to stretch abilities, expand knowledge, and bring greater returns to employers.
-Major Duties:
-- Designing schematics, layout, bill of material.
-- Design high speed interfaces like DDR, QSPI, SDIO, eMMC, Ethernet, USB & calculate length matching, delay analysis, impedance matching
-- Design RF interfaces, Check antenna size, frequency, range test, radiation globe pattern, RSSI analysis, RF clearance, RF filters etc
-- Design mechanical body, calculate size if the enclosure, create step files, mold analysis, 2D drawing generations
-- Design technical documents like datasheet, user manual, compliance manual, text printing, enclosure cutout files etc
-- Generate the hardware test plan, board bringup test plans, functional testing, RF testing
-- Done the thermal analysis, reliability analysis, stress analysis, drop test analysis, IP rating enclosures
-- Support to production team, hardware test zig development
-- Compliance & precompliance of the full product with FCC, CE, IC, RCM certification
-- Reduce the cost of the product, do the power consumption calculation, vave analysis
-- Choose the low cost, small size, easily available parts for sourcing and procurement
-- Work with RF interfaces like ble, wifi, lte, zigbee, z wave etc
+- Primarily working in Go language along with SQL and C
+- Create get and post requests from and to database, CRUD operation with PostgreSQL
+- Create the handlers, middleware, Go packages, HTTP requests, GIN framework etc
+- Experience with HTML, JavaScript and CSS for front end support
+- Code checking, error handling, page rendering, package version handling, GIT versioning
+- Porting the live application to the web servers with the help of DNS, domain, secured connection SSL certification, CSRF token generation for each request etc
+- Expertise in SEO with keyword setup, meta data setup, short and long description, back link creation
+- Worked with google analytic data for web indexing, sitemap, local listing, my business page creation etc
+- Expertise in beautiful image generation, 3D file generation, graphics and content creation
+- Expert in cloud integration of services like lambda, load balancing, S3 etc
+- Porting domain, TTL request, cloud flare integration, e commerce integration etc
+- Write and execute the unit test of template's, functions, handlers for go
+- Render the pages, create the middleware, get and post request, socket programming withing the server and client and server side validation
+- Working experience with race conditions in go, multi threading, and process and thread locking system with programming
+- Experience with RESTful API development
 
 
 ************💞️ I’m looking to collaborate************
 
-- On Embedded system, Embedded software and hardware, Mechanical design, web design, SEO, SMO, SMM, 3D designer and many more
+- Amazing webapplication developement team where i can showcase my skill
 
 ************📫 How to reach me************
 - yagnikpokal@gmail.com
