@@ -6,11 +6,9 @@
 
 <div align="center">
       <a href="https://youtu.be/MfeJnKifpB8">
-     <img 
-      src="https://img.youtube.com/vi/MfeJnKifpB8/0.jpg" 
+     <img src="https://img.youtube.com/vi/MfeJnKifpB8/0.jpg" 
       alt="Everything Is AWESOME" 
-    
-      </a>
+          </a>
     </div>
  
     
