@@ -7,7 +7,7 @@
 <div align="center">
       <a href="https://youtu.be/MfeJnKifpB8">
      <img 
-      src="https://youtu.be/MfeJnKifpB8/0.jpg" 
+      src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
       alt="Everything Is AWESOME" 
       style="width:100%;">
       </a>
