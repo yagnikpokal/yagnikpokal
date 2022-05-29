@@ -2,6 +2,8 @@
 - 👀 I’m a Specialist in Golang | Web developer | AWS | Software | IoT | SEO | 3D | Embedded System | Linux | Yocto | Python
 - 🌱 Software engineer interested in open-source software, golang, cloud, embedded systems, and backend web development was born 1 year before java. 7+ year experience, 3+ with Go programming and 3+ years of experience with WordPress.
 
+[![About myself](https://img.youtube.com/vi/MfeJnKifpB8/0.jpg)](https://youtu.be/MfeJnKifpB8)
+
 ************WEB DEVELOPEMENT************
 
 - Primarily working in Go language along with SQL and C
