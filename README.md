@@ -1,15 +1,10 @@
 - 👋 Hi, I’m @yagnikpokal
 - 👀 I’m a Specialist in Golang | Web developer | AWS | Software | IoT | SEO | 3D | Embedded System | Linux | Yocto | Python
 - 🌱 Software engineer interested in open-source software, golang, cloud, embedded systems, and backend web development was born 1 year before java. 7+ year experience, 3+ with Go programming and 3+ years of experience with WordPress.
-
 <div align="center">
-      <a href="https://youtu.be/MfeJnKifpB8">
-     <img 
-      src="[(https://img.youtube.com/vi/MfeJnKifpB8/0.jpg)]" 
-     
-      style="width:100%;">
-      </a>
-    </div>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+   </div>
+ 
     
 
 ************WEB DEVELOPEMENT************
