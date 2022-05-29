@@ -5,7 +5,7 @@
 <div align="center">
       <a href="https://youtu.be/MfeJnKifpB8">
      <img 
-      src="https://youtu.be/MfeJnKifpB8.jpg" 
+      src="https://youtu.be/MfeJnKifpB8/0.jpg" 
       alt="About Me" 
       style="width:100%;">
       </a>
