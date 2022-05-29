@@ -9,7 +9,7 @@
      <img 
       src="https://img.youtube.com/vi/MfeJnKifpB8/0.jpg" 
       alt="Everything Is AWESOME" 
-      style="width:100%;">
+    
       </a>
     </div>
  
