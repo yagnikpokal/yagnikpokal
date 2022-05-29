@@ -3,14 +3,10 @@
 - 🌱 Software engineer interested in open-source software, golang, cloud, embedded systems, and backend web development was born 1 year before java. 7+ year experience, 3+ with Go programming and 3+ years of experience with WordPress.
 
 <div align="center">
- [![About myself](https://img.youtube.com/vi/MfeJnKifpB8/0.jpg)](https://youtu.be/MfeJnKifpB8)
-</div>
-
-<div align="center">
-      <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
+      <a href="https://youtu.be/MfeJnKifpB8">
      <img 
-      src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
-      alt="Everything Is AWESOME" 
+      src="https://youtu.be/MfeJnKifpB8.jpg" 
+      alt="About Me" 
       style="width:100%;">
       </a>
     </div>
