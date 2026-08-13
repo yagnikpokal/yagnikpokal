@@ -15,6 +15,72 @@
 
 <br>
 
+## 📚 AI & Backend Libraries
+
+### 🤖 AI / LLM
+- LangChain
+- LlamaIndex
+- LangGraph
+- AutoGen
+- CrewAI
+- DSPy
+- OpenAI SDK
+- Anthropic SDK
+- Google GenAI SDK
+- Ollama
+- Hugging Face Transformers
+- Sentence Transformers
+- Instructor
+- tiktoken
+
+### 🔎 RAG & Vector Search
+- FAISS
+- Pinecone
+- Qdrant
+- ChromaDB
+- Weaviate
+- Milvus
+- pgvector
+- BM25
+- Hybrid Search
+
+### 🌐 Backend
+- FastAPI
+- Flask
+- Gin
+- Chi
+- Echo
+- gRPC
+- GraphQL
+- GORM
+- SQLAlchemy
+
+### 🗃️ Databases
+- PostgreSQL
+- MongoDB
+- Redis
+- Elasticsearch / OpenSearch
+- DynamoDB
+
+### ☁️ DevOps & Cloud
+- Docker
+- Kubernetes
+- Terraform
+- GitHub Actions
+- Jenkins
+- AWS Lambda
+- API Gateway
+- S3
+
+### 🤖 AI Agent Frameworks
+- MCP (Model Context Protocol)
+- Agentic AI
+- Prompt Engineering
+- Function Calling
+- AI Workflows
+- n8n
+- Composio
+
 ************ 🤖 AI ENGINEERING / GENAI ************
 
 - Building AI-enabled backend workflows for **news and media platforms**
@@ -94,6 +160,18 @@
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-%237B42BC.svg?style=for-the-badge&logo=autoprefixer&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C6A7?style=for-the-badge)
+![Milvus](https://img.shields.io/badge/Milvus-00BFFF?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-412991?style=for-the-badge)
+![DSPy](https://img.shields.io/badge/DSPy-FFB000?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-7B61FF?style=for-the-badge)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## ⚙️ Backend / Programming
 
